@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 int main() {
+string name= "saood sohail";
+string cms="70404";
 double num1 , num2;
 char op;
 cout << "enter first number :";
